@@ -1,0 +1,8 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
+En lo personal la relacion de estos elementos es basada en garantizar seguridad, trazabilidad y la calidad de los servicios tegnologicos. 
+El uso responsable de la informaciones fundamentado por el estricto cumplimiento de normativas de protección de datos personales y modelos 
+de seguridad digital mediante conexiones cifradas, lo cual se materializa técnicamente a través de la organización del trabajo en Git 
+y GitLab al registrar un historial detallado de auditoría que identifica quién, cuándo y qué cambios realizó en el software institucional.
+Esta rigurosa metodología de control de versiones, apoyada en estrategias de ramificación y revisiones de código, previene errores y asegura 
+la estabilidad de los sistemas públicos, impactando directamente en la participación ciudadana al proveer plataformas institucionales
+eficientes, seguras y transparentes que salvaguardan la información de la sociedad y fortalecen la confianza en los servicios digitales del Estado.
