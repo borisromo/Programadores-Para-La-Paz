@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    Pagina web para probar el POST
+    <script>
+    console.log("Funciona");
+    fetch("https://glowing-space-winner-gr4r4677p97f9prp-3000.app.github.dev/reporte", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json"
+        },
+        body: JSON.stringify({ mensaje: "Tarea semana 5 completada" })
+    })
+    .then(response => response.json())
+    .then(data => console.log(data))
+    .catch(error => console.error("Error:", error));
+    </script>
+</body>
+</html>

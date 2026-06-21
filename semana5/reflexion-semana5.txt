@@ -1,0 +1,8 @@
+¿Cómo podrían las APIs ayudar a que las comunidades compartan información, reportes o alertas de manera organizada?
+Las APIs ayudan a organizar la información comunitaria al actuar como puentes digitales que conectan
+diferentes canales (como WhatsApp, formularios web o sensores de emergencia) con una base de datos
+centralizada, transformando reportes dispersos en un flujo ordenado y automatizado; esto permite 
+clasificar las alertas por categorías mediante inteligencia artificial, geolocalizarlas en mapas
+interactivos en tiempo real y distribuirlas masivamente de forma instantánea a los teléfonos de los
+vecinos, garantizando que la información crítica llegue a las personas adecuadas de manera
+transparente, eficiente y sin depender de procesos manuales.
