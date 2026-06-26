@@ -1,0 +1,11 @@
+¿Por qué es importante que las plataformas tecnológicas puedan recibir reportes o información enviada por los ciudadanos de forma estructurada?
+Recibir la información de los ciudadanos de forma estructurada es fundamental porque
+permite clasificar, filtrar y analizar grandes volúmenes de reportes de manera automática,
+transformándolos en gráficos o mapas claros que sirven como evidencia sólida para la
+veeduría y la toma de decisiones comunitarias. Este formato estandarizado elimina
+la ambigüedad del texto libre, actuando como una guía para que el ciudadano no olvide
+datos cruciales —como fechas o ubicaciones— y permitiendo que el sistema redirija las
+solicitudes de inmediato a los encargados correctos para agilizar los tiempos de respuesta.
+Finalmente, optimiza el rendimiento del servidor al almacenar los datos de manera limpia y
+organizada en la base de datos, lo que facilita las copias de seguridad y garantiza que se
+guarde únicamente la información que es estrictamente necesaria.

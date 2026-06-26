@@ -1,0 +1,4 @@
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que la iluminacion del sector  desde hace varios días."
+}
