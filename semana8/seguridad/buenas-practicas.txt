@@ -1,3 +1,3 @@
 Proteger contraseñas.
-No compartir credenciales.
-Mantener software actualizado.
+Autenticacion y control de accesos.
+Mantener software actualizado y con respaldo.

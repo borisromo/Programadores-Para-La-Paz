@@ -1,6 +1,15 @@
 Qué información muestra cada comando.
-Por qué es útil conocer información del sistema cuando se administra un servidor.
-
 uname -a : Linux codespaces-392f51 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
 
 whoami : codespace
+
+Por qué es útil conocer información del sistema cuando se administra un servidor.
+Conocer la información del sistema al administrar un servidor es indispensable porque permite
+garantizar la estabilidad, compatibilidad y seguridad de toda la infraestructura tecnológica.
+Al identificar con precisión la arquitectura, el sistema operativo y las versiones del núcleo,
+el administrador puede instalar el software adecuado sin provocar fallos, detectar y parchar
+vulnerabilidades críticas antes de un ataque, y monitorear recursos clave como la memoria o
+el disco para resolver problemas a tiempo. Además, esta información es vital para gestionar
+correctamente los permisos de los usuarios, evitando errores catastróficos por un exceso de
+privilegios y permitiendo planificar con anticipación la ampliación del servidor cuando la comunidad
+o el flujo de usuarios comience a crecer.

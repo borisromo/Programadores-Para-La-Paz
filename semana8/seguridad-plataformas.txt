@@ -3,6 +3,6 @@ digital comunitaria, por ejemplo:
 
 No exponer datos personales.
 Proteger credenciales.
-Usar conexiones seguras.
-Registrar accesos.
-Limitar acceso a información sensible.
+Minimización de datos desde el diseño.
+Control de accesos y roles.
+Supervisión humana en procesos automatizados.
